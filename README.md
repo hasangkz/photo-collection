@@ -2,12 +2,12 @@
 
 
 ## Used Technologies
-+Javascript
-+Node.js
-+Express.js
-+ejs
-+mongoose
-+method-override
++ Javascript
++ Node.js
++ Express.js
++ MongoDB
++ mongoose
++ ejs
 
 
 ## About my app
