@@ -20,9 +20,12 @@ I used MongoDB as database and of course I took advantage of the goodies of Expr
 In order for my app to be valid on all devices, I completed this by simulating a post request, as not all browsers support the put request.
 
 
-# here are the images from my app:
-[![image](https://r.resimlink.com/i8djuDPrsmKx.png)](https://resimlink.com/i8djuDPrsmKx)
-[![image](https://r.resimlink.com/CUc4FJs1Id.png)](https://resimlink.com/CUc4FJs1Id)
-[![image](https://r.resimlink.com/ah8CZwcV.png)](https://resimlink.com/ah8CZwcV)
-[![image](https://r.resimlink.com/2vg8Rpo.png)](https://resimlink.com/2vg8Rpo)
-[![image](https://r.resimlink.com/EdPgo.png)](https://resimlink.com/EdPgo)
+here are the images from my app:
+![img](https://i.hizliresim.com/sp92b4n.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/a6na777.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/mqzxqrd.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/qfff0gs.png?raw=true "Title")
+
